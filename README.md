@@ -18,7 +18,7 @@ Through this project, We learned how to use Python language for game development
 ## __What makes your project stand out?__
 What makes this Snake game stand out is its simplicity and ease of understanding. It uses concise code to implement basic game logic, suitable for beginners to learn and modify. Additionally, the documentation and comments for this project are very clear, making it easy for beginners to understand and follow.
 
-## __How to play__
+# **__How to play__**
 run game:
 
 python snake_game.py
@@ -32,3 +32,9 @@ Try to eat as much food as possible. Every time you eat a piece of food, the sna
 
 If the snake hits a wall or its own body, the game will be end.
 
+# **Dependency**
+Java SE 12+
+
+'''
+如何在README中加入可複製的文本
+'''
