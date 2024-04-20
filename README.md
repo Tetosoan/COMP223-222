@@ -53,4 +53,4 @@ This project uses Maven as the dependency management tool. To install the requir
 Follow [cc by nc sa](https://creativecommons.org/licenses/by-nc-sa/2.0/) agreement
 
 # **Demo**
-![link](https://mega.nz/file/K6gAzBQa#tc8WVaZo6ZuHjvc5Zurbiq0GqcbR9jfMNk17ky3gFK4)
+[link](https://mega.nz/file/K6gAzBQa#tc8WVaZo6ZuHjvc5Zurbiq0GqcbR9jfMNk17ky3gFK4)
