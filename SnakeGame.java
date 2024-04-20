@@ -25,6 +25,7 @@ public class SnakeGame extends JPanel implements ActionListener, KeyListener {
         }
     }  
 
+
     int boardWidth;
     int boardHeight;
     int tileSize = 20;
@@ -164,6 +165,7 @@ public class SnakeGame extends JPanel implements ActionListener, KeyListener {
         repaint();
         if (gameOver) {
             gameLoop.stop();
+            
         }
     }  
 
@@ -194,3 +196,4 @@ public class SnakeGame extends JPanel implements ActionListener, KeyListener {
     @Override
     public void keyReleased(KeyEvent e) {}
 }
+
