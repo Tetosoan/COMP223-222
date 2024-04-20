@@ -33,8 +33,21 @@ Try to eat as much food as possible. Every time you eat a piece of food, the sna
 If the snake hits a wall or its own body, the game will be end.
 
 # **Dependency**
-Java SE 12+
 
-'''
-如何在README中加入可複製的文本
-'''
+```
+This project uses Maven as the dependency management tool. To install the required dependencies, please follow these steps:
+
+1. Make sure you have the Java Development Kit (JDK) installed. You can download and install the JDK from the official Oracle website.
+
+2. Download and extract the project code.
+
+3. In the command-line interface, navigate to the project's root directory.
+
+4. Run the following command to install the dependencies:
+
+   ```shell
+   mvn install
+```
+
+# **Copyright information**
+Follow [cc by nc sa](https://creativecommons.org/licenses/by-nc-sa/2.0/) agreement
