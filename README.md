@@ -4,6 +4,7 @@
 # **Snake Game**
 This is a classic snake game where players need to control a snake to move around the screen, eat food and avoid hitting walls or their own body. The game is mainly developed using Python language.
 
+![SKSC](snsc1.png)
 
 ## __motivation:__
 We main motivation for creating this Snake game is to show beginners how to use the Python language to develop a simple and fun game. This game helps beginners understand basic game development concepts such as game loops, graphics drawing, and user input handling.
